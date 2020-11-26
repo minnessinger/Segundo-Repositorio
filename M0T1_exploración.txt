@@ -1,0 +1,3 @@
+Lo que más me llamó la atención de la exploración en Github fue que vi repositorios muy distintos. Algunos solo contenían texto como 
+explicaciones sobre usos. Otros contenían varios archivos, algunos de texto y otros con códigos y los cuales no entiendo para nada.
+Me parece una herramienta interesante pero aún no logro comprender bien el uso de esta.
