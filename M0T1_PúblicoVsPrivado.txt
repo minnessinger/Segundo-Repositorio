@@ -1,5 +1,0 @@
-* Un Repositorio Público es el que puede ser visto por cualquier persona que en este caso
-acceda a Gitub, e incluso puede modificarlo en caso de tener los perimisos.
-
-* Un repositori Privado solo puede ser visto y modificado por el propietario y creador del 
-repositorio.
